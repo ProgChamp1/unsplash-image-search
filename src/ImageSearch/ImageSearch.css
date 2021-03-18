@@ -1,0 +1,36 @@
+.wrapper {
+    width: 100%;
+    text-align: center;
+    margin-bottom: 3rem;
+    position: relative;
+  }
+  
+  .imgform input {
+    margin: 0 auto;
+    background-color: transparent;
+    border: transparent;
+    border-bottom: solid 2px #BFFF00;
+    padding-bottom: 8px;
+    width: 90%;
+    font-weight: 200;
+    letter-spacing: 2px;
+    font-size: 16px;
+    color: #fff;
+    margin-right: 10px;
+  }
+  
+  .imgform input:focus {
+    outline: none;
+  }
+  
+  .imgform button {
+    border: 0;
+    position: absolute;
+    top: 4px;
+    background: transparent;
+    border: solid 2px #BFFF00;
+    color: #fff;
+    border-radius: 2rem;
+    padding: 5px;
+
+  }
